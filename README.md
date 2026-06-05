@@ -57,9 +57,9 @@ I'm most comfortable in the **React + Node.js + MongoDB** stack, and I'm always 
 
 <div align="center">
 
-![Hazzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hazzylol&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Hazzy's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hazzylol&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hazzylol&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hazzylol&theme=tokyonight)
 
 </div>
 
