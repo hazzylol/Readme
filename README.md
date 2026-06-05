@@ -69,7 +69,7 @@ I'm most comfortable in the **React + Node.js + MongoDB** stack, and I'm always 
 
 | Project | What it is | Stack |
 |--------|-----------|-------|
-| **HotelCompete** | Competitor analysis platform for hotels | Laravel, PHP |
+| **HotelCompete** | Competitor analysis platform for hotels | Laravel, PHP, mongodb, Js, Node.js, Tailwind CSS, HTML, react.js |
 | **MS Belts** | Championship belt e-commerce store | Shopify, SEO |
 | **CruiseControlSEO** | SEO automation tooling | Node.js |
 
@@ -77,8 +77,8 @@ I'm most comfortable in the **React + Node.js + MongoDB** stack, and I'm always 
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassaannasir06)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hassaannasir06@gmail.com)
 
 ---
 
